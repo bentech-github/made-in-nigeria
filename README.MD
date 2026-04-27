@@ -1,6 +1,5 @@
 <h1 align="center">
-  <a href="https://madeinnigeria.dev/">
-    🇳🇬Made. In. Nigeria🇳🇬
+  <a href="https://madeinnigeria.dev/"> 🇳🇬Made. In. Nigeria🇳🇬
   </a>
 </h1>
 <p align="center">A curation of awesome tools and projects built by Nigerian developers :fire:.</p>
@@ -8,7 +7,9 @@
 <p align="center">
   <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
 </p>
+
 ## <a name="A"> </a>A
+
 - [Adonis Auth Scaffold](https://github.com/creatrixity/adonis-auth-scaffold) - Seamlessly scaffold a ready-to-use authentication system for your Adonis app with one neat command. **By [@creatrixity](https://twitter.com/creatrixity)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Adonis Hexa](https://github.com/creatrixity/adonis-hexa) - An opinionated software development framework for maintaining a scalable Adonis application. **By [@creatrixity](https://twitter.com/creatrixity)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Adonis Queue](https://github.com/stitchng/adonis-queue) - An addon/plugin package to provide driver-based job queueing services in AdonisJS 4.0+. **By [@isocroft](https://twitter.com/isocroft)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
@@ -203,9 +204,9 @@
 - [Narrative-Generator](https://github.com/thebolarin/narrative-generator) - An AI powered research tool that leverages OpenAI's API to extract and analyze key narratives, analyze their dominance, and track narrative evolution. **By [@Moses](https://www.linkedin.com/in/thebolarin), [@thebolarin](https://twitter.com/thebolarin)**
 - [NativeDoctor](https://github.com/rubbieKelvin/nativedoctor) - A configurable API testing tool built in Rust, designed for easy YAML definition and seamless integration into CI/CD pipelines. **By [@rubbiekelvin](https://rubbietheone.com)**
 - [Netty-Finder](https://github.com/BolajiAyodeji/netty-finder) - This script checks a Nigerian Telephone number and detects which network it belongs to. **By [@iambolajiayo](https://twitter.com/iambolajiayo)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Newspaperjs](https://github.com/flickz/newspaperjs) - Nodejs: News extraction, scraping and article<span style="color: red; font-weight: 700;"> | 🏁 Archived </span>
-parsing module. **By [@flickzcode](https://twitter.com/flickzcode)**
+- [Newspaperjs](https://github.com/flickz/newspaperjs) - Nodejs: News extraction, scraping and article parsing module. **By [@flickzcode](https://twitter.com/flickzcode)**<span style="color: red; font-weight: 700;"> | 🏁 Archived </span>
 - [Nexios](https://github.com/nexios-labs/Nexios) - A high-performance async Python web framework for building modern applications with simplicity and speed on per with fastapi. **By [@mrdunamix](https://x.com/mrdunamix)**
+- [Nexus UI](https://github.com/victorcodess/nexus-ui) - React component library of composable, copy-paste primitives for building AI interfaces (chat, voice, agents). **By [@victorcodess](https://x.com/victorwill__)**
 - [Ngyn.rs](https://github.com/ngyn-rs/ngyn) - An opinionated rust framework for building scalable web servers. **By [@iamelcharitas](https://twitter.com/iamelcharitas)**
 - [Nigerian states api](https://github.com/seyi-adeleke/Nigerian-states-api) - An api for basic information about all 36 states in Nigeria. **By [@seyi__adeleke](https://twitter.com/seyi__adeleke)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Nimble](https://github.com/neoighodaro/nimble) - Fast PHP framework made with very loose optional components. **By [@neoighodaro](https://twitter.com/neoighodaro)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
